@@ -1,0 +1,60 @@
+body{
+    background-color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+li{
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 10px 100px;
+}
+div{
+    border: 1px solid ;
+    width: 930px;
+    height: 420px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.Bethany-Jones{
+    font-size: 60px;
+    display: flex;
+    margin-left: 5%;
+}
+.San-Francisco-California{
+    margin-left: 5%;
+    font-size: 20px;
+}
+h4{
+    margin-left: 5%;
+    font-size: 20px;   
+}
+.Girl-Eating-Ice-cream{
+        margin-left: 59%;
+        width: 41%;
+        height: 420px;
+        margin-top: -42%;
+    }
+.Heasing-Paragraph{
+    display: inline-block;
+}
+.Instagram{
+    height: 40px;
+    margin-left: 5%;
+    width: 40px;
+}
+.Facebook{
+    height: 40px;
+    margin-left: 2%;
+    width: 40px;
+}
+.Twitter{
+    height: 40px;
+    margin-left: 2%;
+    width: 40px;
+}
+.In{
+    margin-left: 2%;
+    height: 40px;
+    width: 40px;
+}
